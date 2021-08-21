@@ -22,7 +22,7 @@ end
 
 ## Usage
 
-Download and and make sure to install the third-party dependincies and the necesary firebase authorization information.
+Download and make sure to install the third-party dependencies and the necesary firebase authorization information.
 
 ## Contributing
 Pull requests are welcome.
